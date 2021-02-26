@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(#8eed2f 0%, #cc3610 100%);
+}
+
+.container{
+    text-align: center;
+}
+
+.container h2{
+     font-family: 'Akaya Kanadaka', cursive;
+}
+
+#myNavbar1 a{
+    color:#f7401b;
+}
+
+#img1{
+    width: 100%;
+}
+
+.img2{
+    width: 250px;
+    height: 200px;
+}
+
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h5{
+    color: black;
+}
+
